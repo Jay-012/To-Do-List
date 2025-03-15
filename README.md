@@ -46,7 +46,7 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 
 ## Screenshots
 
-_(Add screenshots of the app if needed)_
+![image alt](https://github.com/Jay-012/To-Do-List/blob/0422a3082ef66650b8e487b392e311f74f73c137/Screenshot%202025-03-14%20215139.png)
 
 ## Author
 
